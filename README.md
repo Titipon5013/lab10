@@ -22,7 +22,7 @@
   ![image](https://github.com/user-attachments/assets/7e2fdca7-eecc-41a9-bb11-b6dcc471b36c)
 
 - 2.3 : docker build -t timetitipon/test:3.0 . / docker push timetitipon/test:3.0 (on powershell)
-- docker pull timetitipon/test:3.0 / docker run -p 8106:80 timetitipon/test:3.0
+- docker pull timetitipon/test:3.0 / docker run -p 8107:80 timetitipon/test:3.0
 
   ![image](https://github.com/user-attachments/assets/6a011844-3fe7-4acb-9ff8-672717856b3d)
 
