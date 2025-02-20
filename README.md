@@ -30,6 +30,7 @@
 - 2.5 : docker buildx build --platform linux/amd64,linux/arm64 -t timetitipon/myimage:latest .
 - 2.6 : docker buildx build --platform linux/amd64,linux/arm64 -t timetitipon/myimage:latest --push .
 
+  ![image](https://github.com/user-attachments/assets/1ad4aa7f-d995-47b1-a883-dab8007511c5)
 
 - 3
 
